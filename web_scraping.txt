@@ -1,0 +1,4 @@
+In this exercise, we created a Python program that performs web scraping and sentiment analysis.
+We used the Beautiful Soup library to scrape a Wikipedia page about the Python programming language and extract 
+the text from the paragraph ('p') tags. We then used the TextBlob library to perform sentiment analysis on the
+extracted text and displayed the polarity and subjectivity scores.
